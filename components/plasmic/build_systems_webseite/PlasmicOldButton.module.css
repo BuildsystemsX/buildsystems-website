@@ -1,0 +1,25 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 300px;
+  max-width: 100%;
+  background: #ebebeb;
+  cursor: pointer;
+  position: relative;
+  height: 40px;
+  border-radius: 10px;
+  padding: 8px;
+}
+.root:hover {
+  background: var(--token-ALmNYPANzpJB);
+}
+.slotTargetChildren {
+  font-family: "ABC Diatype";
+  font-size: 16px;
+  font-weight: 400;
+  color: var(--token-bGg_0TkxNshv);
+  line-height: 100%;
+  letter-spacing: 0em;
+}

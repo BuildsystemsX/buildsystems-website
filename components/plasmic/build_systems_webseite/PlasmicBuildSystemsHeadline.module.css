@@ -1,0 +1,109 @@
+.root {
+  display: inline-flex;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  position: relative;
+  padding: 20px;
+}
+@media (max-width: 414px) {
+  .root {
+    padding: 20px 10px;
+  }
+}
+.text__yUc3M {
+  display: block;
+  font-size: 44px;
+  font-weight: 400;
+  letter-spacing: -0.92px;
+  line-height: 13px;
+  color: var(--token-yJVQ_UxwCJ01);
+  width: auto;
+  flex-grow: 0;
+  text-align: center;
+  box-shadow: none;
+  filter: none;
+  transform: none;
+  height: auto;
+  flex-shrink: 1;
+  font-family: "ABC Diatype";
+  user-select: none;
+  transition-property: all;
+  transition-duration: 1s;
+  -webkit-transition-property: all;
+  -webkit-transition-duration: 1s;
+  padding: 0px;
+}
+@media (max-width: 1280px) {
+  .text__yUc3M {
+    font-size: 31px;
+    letter-spacing: -0.62px;
+  }
+}
+@media (max-width: 834px) {
+  .text__yUc3M {
+    font-size: 27px;
+    letter-spacing: -0.54px;
+    line-height: 11px;
+  }
+}
+@media (max-width: 414px) {
+  .text__yUc3M {
+    font-size: 20px;
+  }
+}
+.texttransparent__yUc3MLUu64 {
+  color: var(--token-_NHLSimpt97D);
+}
+.textbig__yUc3McRNkY {
+  font-size: 204px;
+}
+.text___4QnzD {
+  display: block;
+  font-size: 44px;
+  font-weight: 400;
+  line-height: 13px;
+  color: var(--token-yJVQ_UxwCJ01);
+  width: auto;
+  flex-grow: 0;
+  text-align: center;
+  box-shadow: none;
+  filter: none;
+  transform: translateX(0px) translateY(0px) translateZ(0px);
+  height: auto;
+  flex-shrink: 1;
+  font-family: "ABC Diatype Mono";
+  letter-spacing: 0px;
+  user-select: none;
+  transition-property: all;
+  transition-duration: 1s;
+  -webkit-transition-property: all;
+  -webkit-transition-duration: 1s;
+  padding: 0px;
+}
+@media (max-width: 1280px) {
+  .text___4QnzD {
+    font-size: 31px;
+  }
+}
+@media (max-width: 834px) {
+  .text___4QnzD {
+    font-size: 27px;
+    line-height: 11px;
+    letter-spacing: 0px;
+  }
+}
+@media (max-width: 414px) {
+  .text___4QnzD {
+    font-size: 20px;
+  }
+}
+.texttransparent___4QnzDlUu64 {
+  color: var(--token-_NHLSimpt97D);
+}
+.textbig___4QnzDcRNkY {
+  font-size: 204px;
+}

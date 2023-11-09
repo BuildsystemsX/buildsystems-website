@@ -1,0 +1,270 @@
+.root {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  position: relative;
+  justify-self: flex-start;
+  background: var(--token-bGg_0TkxNshv);
+  transition-property: all;
+  transition-duration: 1s;
+  -webkit-transition-property: all;
+  -webkit-transition-duration: 1s;
+  padding: 0px;
+}
+@media (max-width: 414px) {
+  .root {
+    height: auto;
+  }
+}
+.img {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+}
+.img > picture > img {
+  object-fit: cover;
+}
+.imgprojekte_trial {
+  width: 100%;
+  min-width: 0;
+}
+.imgprojekte_urbanScaleTimberNew {
+  width: 100%;
+  min-width: 0;
+}
+.imgprojekte_punkthaus {
+  width: 100%;
+  min-width: 0;
+}
+.imgprojekte_aschheim {
+  width: 100%;
+  min-width: 0;
+}
+.freeBox__s81Vw {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+  padding: 16px 0px 0px;
+}
+@media (max-width: 414px) {
+  .freeBox__s81Vw {
+    padding-top: 30px;
+  }
+}
+.text__kgjxE {
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  font-family: var(--token-dDzrSlQjRY1Q);
+  font-size: var(--token-z6CtvJ3PQ9AF);
+  padding-left: 0px;
+  color: var(--token-SVxpiTsWaARq);
+  line-height: var(--token-OB5VOhztYx7g);
+  letter-spacing: -0.32px;
+}
+@media (max-width: 1280px) {
+  .text__kgjxE {
+    letter-spacing: -0.24px;
+    font-size: var(--token-08r3RLu0ffOg);
+    line-height: var(--token-gs4NytFbbacJ);
+  }
+}
+@media (max-width: 414px) {
+  .text__kgjxE {
+    font-size: var(--token-eYAWRyyKY2wH);
+    letter-spacing: -0.18px;
+    line-height: var(--token-rJwSNer90YUR);
+  }
+}
+.text__r4Iwr {
+  color: var(--token-SVxpiTsWaARq);
+  text-align: left;
+  font-size: var(--token-jFIU8MB4m-vt);
+  font-family: var(--token-dDzrSlQjRY1Q);
+  line-height: var(--token-fO4amTcSAAaU);
+  letter-spacing: -0.18px;
+  width: auto;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  padding: 0px;
+}
+@media (max-width: 1280px) {
+  .text__r4Iwr {
+    font-size: var(--token-asQBbjhey31o);
+    letter-spacing: -0.14px;
+    line-height: var(--token-892wPaHWClXl);
+    margin-top: 0px;
+  }
+}
+@media (max-width: 414px) {
+  .text__r4Iwr {
+    font-size: var(--token-g18-76_42RxZ);
+    letter-spacing: -0.13px;
+    line-height: var(--token-8sQbB6Ab6p7O);
+  }
+}
+.freeBox__wfZik {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  padding: 0px;
+}
+.freeBoxshrinked__wfZikaQ4O {
+  align-items: center;
+  justify-content: flex-start;
+}
+.smallButton___4YjRu:global(.__wab_instance) {
+  max-width: 100%;
+  width: auto;
+}
+@media (max-width: 1280px) {
+  .smallButton___4YjRu:global(.__wab_instance) {
+    width: auto;
+  }
+}
+@media (max-width: 414px) {
+  .smallButton___4YjRu:global(.__wab_instance) {
+    width: auto;
+  }
+}
+.text___3B2A {
+  max-width: 111px;
+  width: 100%;
+  min-width: 0;
+}
+.freeBox__gvShG {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  background: var(--token-bGg_0TkxNshv);
+  min-width: 0;
+  padding: 8px 0px;
+}
+@media (max-width: 1280px) {
+  .freeBox__gvShG {
+    top: auto;
+    position: relative;
+    left: auto;
+  }
+}
+@media (max-width: 834px) {
+  .freeBox__gvShG {
+    top: auto;
+    position: relative;
+    left: auto;
+  }
+}
+@media (max-width: 414px) {
+  .freeBox__gvShG {
+    top: auto;
+    position: relative;
+    left: auto;
+  }
+}
+.freeBoxshrinked__gvShGaQ4O {
+  left: auto;
+  top: auto;
+  z-index: 1;
+  position: relative;
+  height: auto;
+  width: auto;
+  align-items: flex-start;
+  justify-content: flex-start;
+  display: none;
+}
+.text__oa4Op {
+  color: var(--token-SVxpiTsWaARq);
+  text-align: left;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-top: 0px;
+  font-size: var(--token-jFIU8MB4m-vt);
+  font-family: var(--token-dDzrSlQjRY1Q);
+  line-height: var(--token-fO4amTcSAAaU);
+  letter-spacing: -0.18px;
+  width: auto;
+  margin: 0px;
+}
+@media (max-width: 1280px) {
+  .text__oa4Op {
+    font-size: var(--token-asQBbjhey31o);
+    letter-spacing: -0.14px;
+    line-height: var(--token-892wPaHWClXl);
+    margin-top: 0px;
+  }
+}
+@media (max-width: 414px) {
+  .text__oa4Op {
+    font-size: var(--token-g18-76_42RxZ);
+    letter-spacing: -0.13px;
+    line-height: var(--token-8sQbB6Ab6p7O);
+    position: relative;
+    left: auto;
+    top: auto;
+  }
+}
+.textprojekte_aschheim__oa4OpW9Jh {
+  padding-top: 0px;
+}
+.linkAufProjektseite {
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  display: none;
+  padding: 0px;
+}
+.linkAufProjektseiteshrinked {
+  width: 220px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  display: none;
+}
+.linkAufProjektseiteprojekte_schumacherQuartierOld {
+  display: none;
+}
+.smallButton__kaZmN:global(.__wab_instance) {
+  max-width: 100%;
+  width: 124px;
+}
+@media (max-width: 1280px) {
+  .smallButton__kaZmN:global(.__wab_instance) {
+    width: auto;
+  }
+}
+@media (max-width: 414px) {
+  .smallButton__kaZmN:global(.__wab_instance) {
+    width: auto;
+  }
+}
+.smallButtonshrinked__kaZmNaQ4O:global(.__wab_instance) {
+  width: auto;
+}
+.text__jkUEp {
+  max-width: 111px;
+  width: 100%;
+  min-width: 0;
+}

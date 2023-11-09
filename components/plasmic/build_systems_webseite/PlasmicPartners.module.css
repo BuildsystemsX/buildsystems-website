@@ -1,0 +1,213 @@
+.root {
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: auto;
+  align-content: flex-start;
+  align-items: stretch;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  flex-direction: row;
+  min-width: 0;
+  padding: 15px;
+}
+.freeBox___0DieM {
+  display: grid;
+  position: relative;
+  width: 100%;
+  height: auto;
+  grid-template-rows: auto auto;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  grid-row-gap: 2vh;
+  grid-column-gap: 2vw;
+  grid-auto-rows: auto;
+  grid-auto-columns: 1fr;
+  min-width: 0;
+}
+@media (max-width: 834px) {
+  .freeBox___0DieM {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-row-gap: 4vh;
+    grid-column-gap: 4vw;
+    padding-left: 1vw;
+    padding-right: 1vw;
+  }
+}
+@media (max-width: 414px) {
+  .freeBox___0DieM {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+    padding-left: 2vw;
+    padding-right: 2vw;
+    grid-row-gap: 6vh;
+  }
+}
+.freeBox__kIy0 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  position: relative;
+  min-width: 0;
+  min-height: 0;
+}
+.img__q31V {
+  object-fit: contain;
+  max-width: 100%;
+}
+.img__q31V > picture > img {
+  object-fit: contain;
+}
+.freeBox__fhdyQ {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.img__qSdj {
+  object-fit: contain;
+  max-width: 100%;
+}
+.img__qSdj > picture > img {
+  object-fit: contain;
+}
+@media (max-width: 414px) {
+  .img__qSdj {
+    max-width: 110%;
+  }
+}
+.freeBox___3Uf1K {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.img__oBl4R {
+  object-fit: scale-down;
+  max-width: 110%;
+  opacity: var(--token-FM1CgS_Ej5MJ);
+}
+.img__oBl4R > picture > img {
+  object-fit: scale-down;
+}
+@media (max-width: 414px) {
+  .img__oBl4R {
+    max-width: 115%;
+    align-self: flex-start;
+  }
+}
+.freeBox__zdt7 {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  padding-right: 2%;
+  padding-left: 2%;
+  min-width: 0;
+  min-height: 0;
+}
+.img___1QOfE {
+  object-fit: contain;
+  max-width: 100%;
+  opacity: var(--token-FM1CgS_Ej5MJ);
+}
+.img___1QOfE > picture > img {
+  object-fit: contain;
+}
+@media (max-width: 1280px) {
+  .img___1QOfE {
+    flex-grow: 1;
+  }
+}
+.freeBox__fXWm {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  padding-left: 2%;
+  padding-right: 2%;
+  min-width: 0;
+  min-height: 0;
+}
+.img___4JV3C {
+  object-fit: contain;
+  max-width: 100%;
+  opacity: var(--token-FM1CgS_Ej5MJ);
+}
+.img___4JV3C > picture > img {
+  object-fit: contain;
+}
+.freeBox__nMNxh {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.img__egtWv {
+  object-fit: cover;
+  max-width: 100%;
+}
+.img__egtWv > picture > img {
+  object-fit: cover;
+}
+.freeBox__suw8R {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  padding-right: 2%;
+  padding-left: 2%;
+  min-width: 0;
+  min-height: 0;
+}
+.img__lHu4X {
+  object-fit: contain;
+  max-width: 100%;
+}
+.img__lHu4X > picture > img {
+  object-fit: contain;
+}
+.freeBox__xayCw {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  padding-left: 2%;
+  padding-right: 2%;
+  min-width: 0;
+  min-height: 0;
+}
+.img__pkvut {
+  object-fit: contain;
+  max-width: 100%;
+}
+.img__pkvut > picture > img {
+  object-fit: contain;
+}

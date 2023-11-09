@@ -1,0 +1,403 @@
+.root {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  justify-self: flex-start;
+  background: var(--token-UmlGrLpqgWeU);
+  min-width: 0;
+  border-radius: 15px;
+  padding: 0px;
+}
+@media (max-width: 1280px) {
+  .root {
+    max-width: none;
+  }
+}
+@media (max-width: 834px) {
+  .root {
+    padding: 0px;
+  }
+}
+@media (max-width: 414px) {
+  .root {
+    justify-self: flex-start;
+  }
+}
+.rootshrinked {
+  padding: 0px;
+}
+@media (max-width: 834px) {
+  .rootshrinked {
+    height: auto;
+  }
+}
+.freeBox__qqTwA {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: auto;
+  justify-content: flex-start;
+  align-items: center;
+  background: none;
+  flex-grow: 1;
+  min-height: 199px;
+  min-width: 0;
+}
+@media (max-width: 1280px) {
+  .freeBox__qqTwA {
+    width: 515px;
+    height: auto;
+    min-height: 169px;
+  }
+}
+@media (max-width: 834px) {
+  .freeBox__qqTwA {
+    width: 600px;
+    height: auto;
+    min-height: 153px;
+  }
+}
+@media (max-width: 414px) {
+  .freeBox__qqTwA {
+    width: 355px;
+  }
+}
+@media (max-width: 1280px) {
+  .freeBoxshrinked__qqTwAyznvb {
+    width: 100%;
+    max-width: 515px;
+    min-width: 0;
+  }
+}
+@media (max-width: 834px) {
+  .freeBoxshrinked__qqTwAyznvb {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    min-width: 0;
+  }
+}
+.freeBox__ij9ZJ {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+  padding: 16px;
+}
+@media (max-width: 414px) {
+  .freeBox__ij9ZJ {
+    width: auto;
+    padding: 8px;
+  }
+}
+.freeBoxpersonen_danielDieren__ij9ZJRjDg7 {
+  width: 100%;
+  min-width: 0;
+}
+.freeBox__tnFpw {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  padding: 8px;
+}
+@media (max-width: 1280px) {
+  .freeBox__tnFpw {
+    z-index: 3;
+  }
+}
+@media (max-width: 414px) {
+  .freeBox__tnFpw {
+    flex-wrap: nowrap;
+    align-items: stretch;
+    align-content: stretch;
+    padding: 0px 8px;
+  }
+}
+.img {
+  object-fit: cover;
+  max-width: 100%;
+  width: 135px;
+}
+.img > picture > img {
+  object-fit: cover;
+}
+@media (max-width: 834px) {
+  .img {
+    width: 93px;
+  }
+}
+@media (max-width: 414px) {
+  .img {
+    width: 93px;
+  }
+}
+.imgpersonen_danielDieren {
+  border-radius: 0px;
+}
+.imgpersonen_danielLocatelli {
+  border-radius: 0px;
+}
+.imgpersonen_juliaDorn {
+  border-radius: 0px;
+}
+.imgpersonen_vinzenzTrimborn {
+  object-fit: cover;
+  transform: translateX(0px) translateY(0px) translateZ(0px);
+  object-position: 50% top;
+  border-radius: 0px;
+}
+.imgpersonen_vinzenzTrimborn > picture > img {
+  object-fit: cover;
+  object-position: 50% top;
+}
+.imgpersonen_andreasThoma {
+  border-radius: 0px;
+}
+.freeBox__cfaT {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  padding-left: 8px;
+  padding-right: 0px;
+  padding-top: 0px;
+  min-width: 0;
+}
+@media (max-width: 414px) {
+  .freeBox__cfaT {
+    padding: 0px;
+  }
+}
+.freeBox__ieifB {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  display: flex;
+  flex-direction: row;
+  min-width: 0;
+}
+.text__uJm3A {
+  font-family: var(--token-dDzrSlQjRY1Q);
+}
+@media (max-width: 1280px) {
+  .text__uJm3A {
+    letter-spacing: -0.2px;
+    line-height: 21px;
+  }
+}
+.textpersonen_danielLocatelli__uJm3Aepzfl {
+  font-family: var(--token-dDzrSlQjRY1Q);
+  height: auto;
+}
+.freeBox__bllXs {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  display: flex;
+  flex-direction: row;
+  min-width: 0;
+}
+.text__tZWb {
+  font-family: var(--token-dDzrSlQjRY1Q);
+}
+@media (max-width: 1280px) {
+  .text__tZWb {
+    font-size: 14px;
+    letter-spacing: -0.14px;
+    line-height: 15.4px;
+  }
+}
+@media (max-width: 414px) {
+  .text__tZWb {
+    font-size: 14px;
+    line-height: 15.4px;
+  }
+}
+.textpersonen_danielDieren__tZWbRjDg7 {
+  padding-top: 0px;
+  width: 100%;
+  min-width: 0;
+}
+.textpersonen_danielLocatelli__tZWbepzfl {
+  font-family: var(--token-dDzrSlQjRY1Q);
+}
+.textpersonen_juliaDorn__tZWb0Tkr {
+  height: auto;
+  padding-top: 0px;
+}
+.freeBox__cJbyx {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  z-index: 1;
+  min-width: 0;
+  padding: 8px 8px 8px 0px;
+}
+@media (max-width: 1280px) {
+  .freeBox__cJbyx {
+    z-index: 20;
+  }
+}
+.freeBoxpersonen_martinBittmann__cJbyxOofUh {
+  z-index: 1;
+}
+.freeBoxpersonen_danielDieren__cJbyxRjDg7 {
+  z-index: 1;
+}
+.freeBoxpersonen_danielLocatelli__cJbyxepzfl {
+  z-index: 1;
+}
+.freeBoxpersonen_vinzenzTrimborn__cJbyxdsivE {
+  z-index: 1;
+}
+.freeBoxshrinked__cJbyxYznvb {
+  z-index: 3;
+}
+.freeBox__siezz {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  padding: 0px;
+}
+@media (max-width: 1280px) {
+  .freeBox__siezz {
+    z-index: 20;
+  }
+}
+.freeBoxpersonen_juliaDorn__siezz0Tkr {
+  z-index: 1;
+}
+.smallButton:global(.__wab_instance) {
+  max-width: 100%;
+}
+.text__yPeoa {
+  padding-right: 0px;
+}
+.freeBox__sjoac {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: auto;
+  justify-content: flex-start;
+  align-items: center;
+  background: none;
+  position: relative;
+  left: auto;
+  top: auto;
+  z-index: 2;
+  min-width: 0;
+  padding: 0px;
+}
+@media (max-width: 1280px) {
+  .freeBox__sjoac {
+    top: auto;
+    left: auto;
+  }
+}
+@media (max-width: 834px) {
+  .freeBox__sjoac {
+    top: auto;
+    left: auto;
+  }
+}
+@media (max-width: 414px) {
+  .freeBox__sjoac {
+    left: auto;
+    top: auto;
+    width: auto;
+  }
+}
+.freeBoxpersonen_martinBittmann__sjoacOofUh {
+  left: auto;
+  top: auto;
+  display: flex;
+}
+.freeBoxpersonen_danielDieren__sjoacRjDg7 {
+  left: auto;
+  top: auto;
+  display: flex;
+}
+.freeBoxpersonen_danielLocatelli__sjoacepzfl {
+  left: auto;
+  top: auto;
+  display: flex;
+}
+.freeBoxpersonen_juliaDorn__sjoac0Tkr {
+  left: auto;
+  top: auto;
+  display: flex;
+}
+.freeBoxpersonen_vinzenzTrimborn__sjoacdsivE {
+  left: auto;
+  top: auto;
+  display: flex;
+}
+.freeBoxpersonen_andreasThoma__sjoacvILe5 {
+  left: auto;
+  top: auto;
+  display: flex;
+}
+.freeBoxshrinked__sjoacYznvb {
+  z-index: 2;
+  box-shadow: 0px 15px 16px 0px #0000008a;
+  width: auto;
+  left: auto;
+  height: auto;
+  top: auto;
+  position: relative;
+  display: none;
+  margin: 0px;
+}
+.text__jlPcW {
+  font-family: var(--token-dDzrSlQjRY1Q);
+  padding: 0px;
+}
+@media (max-width: 1280px) {
+  .text__jlPcW {
+    font-size: 14px;
+    line-height: 15.4px;
+    letter-spacing: -0.14px;
+  }
+}
+@media (max-width: 414px) {
+  .text__jlPcW {
+    max-width: 237px;
+    width: 100%;
+    min-width: 0;
+  }
+}
+.textpersonen_danielDieren__jlPcWRjDg7 {
+  width: 100%;
+  min-width: 0;
+}

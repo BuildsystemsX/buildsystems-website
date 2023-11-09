@@ -1,0 +1,549 @@
+{
+  "props": [
+    {
+      "name": "1 Cell",
+      "type": "spacing",
+      "value": "158px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "m2pYP4iuLdNE"
+      }
+    },
+    {
+      "name": "1 Cell IPad",
+      "type": "spacing",
+      "value": "1ch",
+      "category": "spacing",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "uQZCuQSjiRfZ"
+      }
+    },
+    {
+      "name": "1 Cell SD",
+      "type": "spacing",
+      "value": "1px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "HSVcSAaSj48l"
+      }
+    },
+    {
+      "name": "2 Cells",
+      "type": "spacing",
+      "value": "315px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "bEWg0HhLsmkm"
+      }
+    },
+    {
+      "name": "2 Cells IPad",
+      "type": "spacing",
+      "value": "1px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "Y7TkzQf2MHjT"
+      }
+    },
+    {
+      "name": "2 Cells SD",
+      "type": "spacing",
+      "value": "1px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "_wgRLw0QAhYd"
+      }
+    },
+    {
+      "name": "3 Cells IPad",
+      "type": "spacing",
+      "value": "2ch",
+      "category": "spacing",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "WVvR06wQ3TL6"
+      }
+    },
+    {
+      "name": "BS Font",
+      "type": "fontfamily",
+      "value": "ABC Diatype",
+      "category": "fontfamily",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "dDzrSlQjRY1Q"
+      }
+    },
+    {
+      "name": "Build White",
+      "type": "color",
+      "value": "#FAFAFA",
+      "category": "color",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "yJVQ_UxwCJ01"
+      }
+    },
+    {
+      "name": "Green",
+      "type": "color",
+      "value": "#56BD77",
+      "category": "color",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "ALmNYPANzpJB"
+      }
+    },
+    {
+      "name": "Main",
+      "type": "color",
+      "value": "#222222",
+      "category": "color",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "bGg_0TkxNshv"
+      }
+    },
+    {
+      "name": "Mobile Site",
+      "type": "spacing",
+      "value": "10px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "A5AXXsEFUmEB"
+      }
+    },
+    {
+      "name": "Normal",
+      "type": "fontsize",
+      "value": "26px",
+      "category": "fontsize",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "ElOYelXEOq__"
+      }
+    },
+    {
+      "name": "Normal IPad",
+      "type": "fontsize",
+      "value": "16px",
+      "category": "fontsize",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "4--8VrVTttwh"
+      }
+    },
+    {
+      "name": "Normal IPad H",
+      "type": "lineheight",
+      "value": "1.5",
+      "category": "lineheight",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "jXjYXy0S7lfy"
+      }
+    },
+    {
+      "name": "Normal SD",
+      "type": "fontsize",
+      "value": "16px",
+      "category": "fontsize",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "N5NhUUm9Uc9E"
+      }
+    },
+    {
+      "name": "Normal SD H",
+      "type": "lineheight",
+      "value": "1.5",
+      "category": "lineheight",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "fCtWSYd3eajl"
+      }
+    },
+    {
+      "name": "Normal_H",
+      "type": "lineheight",
+      "value": "28.6px",
+      "category": "lineheight",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "R4ydVHgDbagl"
+      }
+    },
+    {
+      "name": "Normal_M",
+      "type": "lineheight",
+      "value": "16.5px",
+      "category": "lineheight",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "6WAQQzl2D8xY"
+      }
+    },
+    {
+      "name": "Normal_Mobile",
+      "type": "fontsize",
+      "value": "15px",
+      "category": "fontsize",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "cgi-VVXu9B8k"
+      }
+    },
+    {
+      "name": "Paragraph Header",
+      "type": "fontsize",
+      "value": "1.7vw",
+      "category": "fontsize",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "z6CtvJ3PQ9AF"
+      }
+    },
+    {
+      "name": "Paragraph Header H M",
+      "type": "lineheight",
+      "value": "1.5",
+      "category": "lineheight",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "rJwSNer90YUR"
+      }
+    },
+    {
+      "name": "Paragraph Header Mobile",
+      "type": "fontsize",
+      "value": "18px",
+      "category": "fontsize",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "eYAWRyyKY2wH"
+      }
+    },
+    {
+      "name": "Paragraph Header SD",
+      "type": "fontsize",
+      "value": "16px",
+      "category": "fontsize",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "08r3RLu0ffOg"
+      }
+    },
+    {
+      "name": "Paragraph Header SD 2",
+      "type": "lineheight",
+      "value": "1.5",
+      "category": "lineheight",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "gs4NytFbbacJ"
+      }
+    },
+    {
+      "name": "Paragraph Header_H",
+      "type": "lineheight",
+      "value": "36px",
+      "category": "lineheight",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "OB5VOhztYx7g"
+      }
+    },
+    {
+      "name": "Paragraph Large",
+      "type": "fontsize",
+      "value": "26px",
+      "category": "fontsize",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "9SKxXnRyv9Oo"
+      }
+    },
+    {
+      "name": "Paragraph Large_H",
+      "type": "lineheight",
+      "value": "21px",
+      "category": "lineheight",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "fQSm752URrBa"
+      }
+    },
+    {
+      "name": "Paragraph Medium",
+      "type": "fontsize",
+      "value": "18px",
+      "category": "fontsize",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "jFIU8MB4m-vt"
+      }
+    },
+    {
+      "name": "Paragraph Medium Mobile",
+      "type": "fontsize",
+      "value": "16px",
+      "category": "fontsize",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "g18-76_42RxZ"
+      }
+    },
+    {
+      "name": "Paragraph Medium SD",
+      "type": "fontsize",
+      "value": "16px",
+      "category": "fontsize",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "asQBbjhey31o"
+      }
+    },
+    {
+      "name": "Paragraph Medium SD 2",
+      "type": "lineheight",
+      "value": "1.5",
+      "category": "lineheight",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "892wPaHWClXl"
+      }
+    },
+    {
+      "name": "Paragraph Medium_H",
+      "type": "lineheight",
+      "value": "19.8px",
+      "category": "lineheight",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "fO4amTcSAAaU"
+      }
+    },
+    {
+      "name": "Paragraph_Medium_H_M",
+      "type": "lineheight",
+      "value": "1.5",
+      "category": "lineheight",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "8sQbB6Ab6p7O"
+      }
+    },
+    {
+      "name": "Partner",
+      "type": "opacity",
+      "value": "0.8",
+      "category": "opacity",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "FM1CgS_Ej5MJ"
+      }
+    },
+    {
+      "name": "Partner 2",
+      "type": "opacity",
+      "value": "0.8",
+      "category": "opacity",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "XWLQEcgeIoWc"
+      }
+    },
+    {
+      "name": "Partner Mobile",
+      "type": "spacing",
+      "value": "3px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "gb8HVYZCvrqw"
+      }
+    },
+    {
+      "name": "Partners h",
+      "type": "spacing",
+      "value": "20px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "V48fm7lki7Mz"
+      }
+    },
+    {
+      "name": "Partners v",
+      "type": "spacing",
+      "value": "8px",
+      "category": "spacing",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "-gas6UyhXHWw"
+      }
+    },
+    {
+      "name": "Second",
+      "type": "color",
+      "value": "#3C3C3C",
+      "category": "color",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "UmlGrLpqgWeU"
+      }
+    },
+    {
+      "name": "Second White",
+      "type": "color",
+      "value": "#EBEBEB",
+      "category": "color",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "DJi6LsYb_27c"
+      }
+    },
+    {
+      "name": "Small",
+      "type": "fontsize",
+      "value": "14px",
+      "category": "fontsize",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "ykp4aMLoQYqR"
+      }
+    },
+    {
+      "name": "Small_H",
+      "type": "lineheight",
+      "value": "24.2px",
+      "category": "lineheight",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "lHoim2Om7XW5"
+      }
+    },
+    {
+      "name": "Small_M",
+      "type": "fontsize",
+      "value": "10px",
+      "category": "fontsize",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "L-BE0S2Nnx-V"
+      }
+    },
+    {
+      "name": "Subheader",
+      "type": "fontsize",
+      "value": "2.6vw",
+      "category": "fontsize",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "QWd97N2CFUpP"
+      }
+    },
+    {
+      "name": "Subheader IPad",
+      "type": "fontsize",
+      "value": "16px",
+      "category": "fontsize",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "J2rbMU7PP8d6"
+      }
+    },
+    {
+      "name": "Subheader IPad H",
+      "type": "lineheight",
+      "value": "1.5",
+      "category": "lineheight",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "Y6invZeH2Eiw"
+      }
+    },
+    {
+      "name": "Subheader SD",
+      "type": "fontsize",
+      "value": "16px",
+      "category": "fontsize",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "xAWPHlfOiFAL"
+      }
+    },
+    {
+      "name": "Subheader SD H",
+      "type": "lineheight",
+      "value": "1.5",
+      "category": "lineheight",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "mOJ06ub79zmc"
+      }
+    },
+    {
+      "name": "Subheader_H",
+      "type": "lineheight",
+      "value": "45px",
+      "category": "lineheight",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "KlTF7dFEYqi7"
+      }
+    },
+    {
+      "name": "Subheader_H_M",
+      "type": "lineheight",
+      "value": "1.5",
+      "category": "lineheight",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "AgIACmvWYzqd"
+      }
+    },
+    {
+      "name": "Subheader_H_Mob",
+      "type": "fontsize",
+      "value": "27px",
+      "category": "fontsize",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "F6RLyq0hUvcp"
+      }
+    },
+    {
+      "name": "Transparent",
+      "type": "color",
+      "value": "#BD565600",
+      "category": "color",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "_NHLSimpt97D"
+      }
+    },
+    {
+      "name": "White",
+      "type": "color",
+      "value": "#D9D9D9",
+      "category": "color",
+      "meta": {
+        "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
+        "id": "SVxpiTsWaARq"
+      }
+    }
+  ],
+  "global": {
+    "meta": {
+      "source": "plasmic.app"
+    }
+  }
+}

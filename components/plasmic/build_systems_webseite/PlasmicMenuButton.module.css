@@ -1,0 +1,45 @@
+.root {
+  display: inline-flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  justify-self: flex-start;
+  cursor: pointer;
+  padding: 0px;
+}
+.freeBox {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: auto;
+  max-width: 100%;
+  background: var(--token-SVxpiTsWaARq);
+  cursor: pointer;
+  height: auto;
+  border-radius: 4px;
+  padding: 5px 15px;
+}
+.slotTargetChildren {
+  font-family: "ABC Diatype Mono";
+  font-size: 20px;
+  font-weight: 400;
+  color: var(--token-bGg_0TkxNshv);
+  line-height: 100%;
+  letter-spacing: 0em;
+  user-select: none;
+}
+@media (max-width: 1280px) {
+  .slotTargetChildren {
+    font-size: 16px;
+  }
+}
+@media (max-width: 414px) {
+  .slotTargetChildren {
+    font-size: 14px;
+  }
+}

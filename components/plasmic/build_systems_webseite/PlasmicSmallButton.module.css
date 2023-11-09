@@ -1,0 +1,78 @@
+.root {
+  display: inline-flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  margin-left: 0px;
+  justify-self: flex-start;
+  padding: 0px 0px 0px 100px;
+}
+@media (max-width: 414px) {
+  .root {
+    padding-left: 0px;
+  }
+}
+.rootnoLeftSiteShift {
+  margin-left: 0px;
+  padding-left: 0px;
+}
+.rootplus {
+  margin-left: 0px;
+}
+.freeBox {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: auto;
+  background: var(--token-SVxpiTsWaARq);
+  cursor: pointer;
+  height: auto;
+  flex-grow: 0;
+  flex-shrink: 0;
+  border-radius: 2px;
+  padding: 1px 6px;
+}
+.freeBoxplus {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 4px;
+}
+.root:hover .freeBox {
+  background: var(--token-_NHLSimpt97D);
+}
+.slotTargetChildren {
+  font-family: var(--token-dDzrSlQjRY1Q);
+  font-size: var(--token-ykp4aMLoQYqR);
+  font-weight: 400;
+  color: var(--token-bGg_0TkxNshv);
+  line-height: var(--token-lHoim2Om7XW5);
+  letter-spacing: -0.14px;
+  user-select: none;
+}
+@media (max-width: 1280px) {
+  .slotTargetChildren {
+    font-size: 12px;
+    letter-spacing: -0.12px;
+    line-height: var(--token-lHoim2Om7XW5);
+  }
+}
+@media (max-width: 834px) {
+  .slotTargetChildren {
+    line-height: 12px;
+  }
+}
+@media (max-width: 414px) {
+  .slotTargetChildren {
+    font-size: var(--token-L-BE0S2Nnx-V);
+    letter-spacing: -0.1px;
+    line-height: 16px;
+  }
+}
+.root:hover .slotTargetChildren {
+  color: var(--token-SVxpiTsWaARq);
+}
