@@ -15,7 +15,7 @@
   --plasmic-token-bs-font: var(--token-dDzrSlQjRY1Q);
   --token-ElOYelXEOq__: 26px;
   --plasmic-token-normal: var(--token-ElOYelXEOq__);
-  --token-QWd97N2CFUpP: 2.6vw;
+  --token-QWd97N2CFUpP: 41px;
   --plasmic-token-subheader: var(--token-QWd97N2CFUpP);
   --token-ykp4aMLoQYqR: 14px;
   --plasmic-token-small: var(--token-ykp4aMLoQYqR);
@@ -25,7 +25,7 @@
   --plasmic-token-paragraph-medium: var(--token-jFIU8MB4m-vt);
   --token-9SKxXnRyv9Oo: 26px;
   --plasmic-token-paragraph-large: var(--token-9SKxXnRyv9Oo);
-  --token-KlTF7dFEYqi7: 45px;
+  --token-KlTF7dFEYqi7: 42px;
   --plasmic-token-subheader-h: var(--token-KlTF7dFEYqi7);
   --token-R4ydVHgDbagl: 28.6px;
   --plasmic-token-normal-h: var(--token-R4ydVHgDbagl);
@@ -119,9 +119,9 @@
     --plasmic-token-1-cell: var(--token-m2pYP4iuLdNE);
     --token-bEWg0HhLsmkm: 16.7vw;
     --plasmic-token-2-cells: var(--token-bEWg0HhLsmkm);
-    --token-mOJ06ub79zmc: 2.7vw;
+    --token-mOJ06ub79zmc: 32px;
     --plasmic-token-subheader-sd-h: var(--token-mOJ06ub79zmc);
-    --token-xAWPHlfOiFAL: 2.5vw;
+    --token-xAWPHlfOiFAL: 29px;
     --plasmic-token-subheader-sd: var(--token-xAWPHlfOiFAL);
     --token-N5NhUUm9Uc9E: 20px;
     --plasmic-token-normal-sd: var(--token-N5NhUUm9Uc9E);
@@ -146,9 +146,9 @@
   .plasmic_tokens {
     --token-_NHLSimpt97D: #22222200;
     --plasmic-token-transparent: var(--token-_NHLSimpt97D);
-    --token-J2rbMU7PP8d6: 3.3vw;
+    --token-J2rbMU7PP8d6: 25px;
     --plasmic-token-subheader-i-pad: var(--token-J2rbMU7PP8d6);
-    --token-Y6invZeH2Eiw: 4vw;
+    --token-Y6invZeH2Eiw: 27px;
     --plasmic-token-subheader-i-pad-h: var(--token-Y6invZeH2Eiw);
     --token-WVvR06wQ3TL6: 200px;
     --plasmic-token-3-cells-i-pad: var(--token-WVvR06wQ3TL6);
@@ -167,11 +167,11 @@
   .plasmic_tokens {
     --token-A5AXXsEFUmEB: 10px;
     --plasmic-token-mobile-site: var(--token-A5AXXsEFUmEB);
-    --token-F6RLyq0hUvcp: 5vw;
+    --token-F6RLyq0hUvcp: 20px;
     --plasmic-token-subheader-h-mob: var(--token-F6RLyq0hUvcp);
     --token-g18-76_42RxZ: 13px;
     --plasmic-token-paragraph-medium-mobile: var(--token-g18-76_42RxZ);
-    --token-AgIACmvWYzqd: 6vw;
+    --token-AgIACmvWYzqd: 22px;
     --plasmic-token-subheader-h-m: var(--token-AgIACmvWYzqd);
     --token-8sQbB6Ab6p7O: 14.3px;
     --plasmic-token-paragraph-medium-h-m: var(--token-8sQbB6Ab6p7O);
@@ -319,10 +319,6 @@
 .plasmic_mixins {
   --mixin-m_owk8m73H0X_white-space: pre-wrap;
   --plasmic-mixin-text_white-space: var(--mixin-m_owk8m73H0X_white-space);
-  --mixin-9kHOL0J2UK5S_white-space: pre-wrap;
-  --plasmic-mixin-unnamed-style-preset_white-space: var(
-    --mixin-9kHOL0J2UK5S_white-space
-  );
 }
 
 :where(.all) {

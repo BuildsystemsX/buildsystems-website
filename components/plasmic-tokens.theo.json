@@ -443,7 +443,7 @@
     {
       "name": "Subheader",
       "type": "fontsize",
-      "value": "2.6vw",
+      "value": "41px",
       "category": "fontsize",
       "meta": {
         "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
@@ -493,7 +493,7 @@
     {
       "name": "Subheader_H",
       "type": "lineheight",
-      "value": "45px",
+      "value": "42px",
       "category": "lineheight",
       "meta": {
         "projectId": "mqV4UcDB7VtiJ8cJsjEuAy",
