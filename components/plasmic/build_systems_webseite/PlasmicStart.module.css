@@ -28,6 +28,7 @@
 @media (max-width: 834px) {
   .root > * {
     grid-column: 4;
+    overflow-wrap: break-word;
   }
 }
 @media (max-width: 414px) {
@@ -39,6 +40,7 @@
 @media (max-width: 414px) {
   .root > * {
     grid-column: 4;
+    overflow-wrap: break-word;
   }
 }
 .buildSystemsHeadline:global(.__wab_instance) {
