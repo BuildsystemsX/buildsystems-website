@@ -28,7 +28,6 @@
 @media (max-width: 834px) {
   .root > * {
     grid-column: 4;
-    overflow-wrap: break-word;
   }
 }
 @media (max-width: 414px) {
@@ -40,7 +39,6 @@
 @media (max-width: 414px) {
   .root > * {
     grid-column: 4;
-    overflow-wrap: break-word;
   }
 }
 .buildSystemsHeadline:global(.__wab_instance) {
@@ -264,7 +262,7 @@
   .text__iZDwL {
     font-size: var(--token-F6RLyq0hUvcp);
     text-align: left;
-    padding-top: 15px;
+    padding-top: 36px;
     padding-right: 0px;
     padding-bottom: 0px;
     letter-spacing: -0.27px;
@@ -514,7 +512,7 @@
     font-size: var(--token-F6RLyq0hUvcp);
     line-height: var(--token-AgIACmvWYzqd);
     letter-spacing: -0.27px;
-    padding: 15px 0px 0px;
+    padding: 36px 0px 0px;
   }
 }
 .freeBox___0ME4 {
