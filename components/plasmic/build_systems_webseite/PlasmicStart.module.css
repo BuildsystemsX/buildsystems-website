@@ -247,6 +247,7 @@
   left: 0px;
   top: 0px;
   z-index: 1;
+  user-select: none;
   padding: 5px 0px 0px;
 }
 @media (max-width: 1280px) {
