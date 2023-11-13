@@ -528,6 +528,11 @@
   grid-column-end: -1 !important;
   padding: 0vh 5% 0px;
 }
+@media (max-width: 1280px) {
+  .freeBox___0ME4 {
+    z-index: 2;
+  }
+}
 @media (max-width: 834px) {
   .freeBox___0ME4 {
     padding-left: 0px;
