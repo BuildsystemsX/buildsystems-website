@@ -28,7 +28,6 @@
 @media (max-width: 834px) {
   .root > * {
     grid-column: 4;
-    overflow-wrap: break-word;
   }
 }
 @media (max-width: 414px) {
@@ -40,7 +39,6 @@
 @media (max-width: 414px) {
   .root > * {
     grid-column: 4;
-    overflow-wrap: break-word;
   }
 }
 .buildSystemsHeadline:global(.__wab_instance) {
@@ -68,7 +66,7 @@
 }
 @media (max-width: 414px) {
   .cover:global(.__wab_instance) {
-    z-index: 4;
+    z-index: 6;
   }
 }
 .freeBox__ixoAs {
@@ -118,7 +116,7 @@
   height: 100vh;
   left: 0px;
   top: 0px;
-  z-index: 0;
+  z-index: 2;
   flex-grow: 1;
   background: none;
   overflow: visible;
@@ -174,10 +172,9 @@
   background: linear-gradient(
       0deg,
       #222222 0%,
-      #222222e6 8%,
-      #22222259 15%,
-      #22222240 24%,
-      #22222240 100%
+      #222222e6 3%,
+      #22222240 13%,
+      #2222221a 100%
     )
     0% 0% / 100% 100% repeat;
   overflow: visible;
@@ -823,9 +820,8 @@
   z-index: 1;
   right: 0;
   bottom: 0;
-}
-@media (max-width: 414px) {
-  .hiderHeadlines:global(.__wab_instance) {
-    display: none;
-  }
+  transition-property: all;
+  transition-duration: 1s;
+  -webkit-transition-property: all;
+  -webkit-transition-duration: 1s;
 }
