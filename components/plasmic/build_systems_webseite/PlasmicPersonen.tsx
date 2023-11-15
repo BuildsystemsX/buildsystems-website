@@ -220,7 +220,7 @@ function PlasmicPersonen__RenderFunc(props: {
               )}
             >
               {hasVariant(globalVariants, "screen", "iPhone")
-                ? "                              denkt #vernetzt / #ganzheitlich / #langfristig."
+                ? "denkt #vernetzt / #ganzheitlich / #langfristig."
                 : "denkt #vernetzt / #ganzheitlich / #langfristig."}
             </div>
           </div>
@@ -235,7 +235,7 @@ function PlasmicPersonen__RenderFunc(props: {
               )}
             >
               {hasVariant(globalVariants, "screen", "iPhone")
-                ? "                               f\u00fchrt Kompetenzen, Prozesse und Tools zusammen."
+                ? "f\u00fchrt Kompetenzen, Prozesse und Tools zusammen."
                 : "f\u00fchrt Kompetenzen, Prozesse und Tools zusammen."}
             </div>
           </div>
@@ -337,7 +337,7 @@ function PlasmicPersonen__RenderFunc(props: {
               )}
             >
               {hasVariant(globalVariants, "screen", "iPhone")
-                ? "                              fu\u0308hrt  #Kompetenzen / #Prozesse / #Tools zusammen."
+                ? "fu\u0308hrt  #Kompetenzen / #Prozesse / #Tools zusammen."
                 : "denkt vernetzt, ganzheitlich und langfristig."}
             </div>
           </div>
